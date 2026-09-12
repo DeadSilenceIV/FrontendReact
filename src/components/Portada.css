@@ -1,0 +1,41 @@
+.portada {
+  padding: 111px 24px 100px;
+  text-align: center;
+  background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+}
+
+.portada__titulo {
+  margin: 0 0 26px;
+  font-size: 52px;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.portada__resaltado {
+  color: #e94560;
+}
+
+.portada__texto {
+  max-width: 520px;
+  margin: 0 auto 36px;
+  font-size: 20px;
+  line-height: 32px;
+  color: #aaaaaa;
+}
+
+.portada__boton {
+  display: inline-flex;
+  align-items: center;
+  height: 55px;
+  padding: 0 40px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #e94560;
+  border-radius: 28px;
+}
+
+.portada__boton:hover {
+  background-color: #d63a54;
+}

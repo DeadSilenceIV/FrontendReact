@@ -1,0 +1,30 @@
+.barra {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  padding: 0 40px;
+  background-color: #1a1a2e;
+}
+
+.barra__logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #e94560;
+  text-decoration: none;
+}
+
+.barra__menu {
+  display: flex;
+  gap: 24px;
+}
+
+.barra__enlace {
+  font-size: 15px;
+  color: #cccccc;
+  text-decoration: none;
+}
+
+.barra__enlace:hover {
+  color: #ffffff;
+}

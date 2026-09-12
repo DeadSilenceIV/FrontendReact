@@ -1,0 +1,25 @@
+.cursos {
+  padding: 78px 24px 72px;
+  text-align: center;
+  background-color: #f8f9fa;
+}
+
+.cursos__titulo {
+  margin: 0 0 22px;
+  font-size: 32px;
+  line-height: 1.2;
+}
+
+.cursos__texto {
+  margin: 0 0 52px;
+  font-size: 16px;
+  color: #777777;
+}
+
+.cursos__lista {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+  max-width: 1210px;
+  margin: 0 auto;
+}

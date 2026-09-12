@@ -1,0 +1,15 @@
+.pie {
+  padding: 35px 24px;
+  text-align: center;
+  background-color: #111111;
+}
+
+.pie__texto {
+  margin: 0;
+  font-size: 14px;
+  color: #777777;
+}
+
+.pie__marca {
+  color: #e94560;
+}

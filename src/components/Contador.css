@@ -1,0 +1,59 @@
+.contador {
+  padding: 78px 24px 116px;
+  text-align: center;
+  background-color: #1a1a2e;
+}
+
+.contador__titulo {
+  margin: 0 0 22px;
+  font-size: 32px;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.contador__texto {
+  margin: 0 0 44px;
+  font-size: 16px;
+  color: #aaaaaa;
+}
+
+.contador__caja {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  width: 304px;
+  margin: 0 auto;
+  padding: 40px 0;
+  background-color: #16213e;
+  border-radius: 8px;
+}
+
+.contador__boton {
+  width: 48px;
+  height: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color: #ffffff;
+  background-color: #e94560;
+  border: none;
+  border-radius: 50%;
+}
+
+.contador__boton:hover {
+  background-color: #d63a54;
+}
+
+.contador__numero {
+  min-width: 48px;
+  font-size: 56px;
+  font-weight: bold;
+  line-height: 1;
+  color: #e94560;
+}
+
+.contador__etiqueta {
+  margin: 20px 0 0;
+  font-size: 14px;
+  color: #888888;
+}
