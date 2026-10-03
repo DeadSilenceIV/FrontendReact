@@ -1,4 +1,4 @@
-import Tarjeta from './Tarjeta';
+import Tarjeta from '../components/Tarjeta';
 import './Cursos.css';
 
 const cursos = [
@@ -34,8 +34,8 @@ const cursos = [
 
 function Cursos() {
   return (
-    <section className="cursos" id="cursos">
-      <h2 className="cursos__titulo">Nuestros Cursos</h2>
+    <section className="cursos">
+      <h1 className="cursos__titulo">Nuestros Cursos</h1>
       <p className="cursos__texto">Elige el camino que mejor se adapte a ti</p>
 
       <div className="cursos__lista">

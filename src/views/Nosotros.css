@@ -1,0 +1,24 @@
+.nosotros {
+  padding: 78px 24px 116px;
+  text-align: center;
+  background-color: #1a1a2e;
+}
+
+.nosotros__titulo {
+  margin: 0 0 22px;
+  font-size: 32px;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.nosotros__texto {
+  margin: 0 0 44px;
+  font-size: 16px;
+  color: #aaaaaa;
+}
+
+.nosotros__etiqueta {
+  margin: 20px 0 0;
+  font-size: 14px;
+  color: #888888;
+}

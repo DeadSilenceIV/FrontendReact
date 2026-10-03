@@ -1,23 +1,4 @@
 .contador {
-  padding: 78px 24px 116px;
-  text-align: center;
-  background-color: #1a1a2e;
-}
-
-.contador__titulo {
-  margin: 0 0 22px;
-  font-size: 32px;
-  line-height: 1.2;
-  color: #ffffff;
-}
-
-.contador__texto {
-  margin: 0 0 44px;
-  font-size: 16px;
-  color: #aaaaaa;
-}
-
-.contador__caja {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -50,10 +31,4 @@
   font-weight: bold;
   line-height: 1;
   color: #e94560;
-}
-
-.contador__etiqueta {
-  margin: 20px 0 0;
-  font-size: 14px;
-  color: #888888;
 }
